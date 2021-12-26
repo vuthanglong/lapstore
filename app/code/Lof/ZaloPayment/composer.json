@@ -1,0 +1,23 @@
+{
+    "name": "landofcoder/module-zalopayment",
+    "description": "Magento 2 Zalo Payment Method extension by Landofcoder.com",
+    "type": "magento2-module",
+    "license": "MIT",
+    "authors": [
+        {
+            "email": "info@landofcoder.com",
+            "name": "Landofcoder.com",
+            "homepage": "https://landofcoder.com"
+        }
+    ],
+    "version": "1.0.0",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Lof\\ZaloPayment\\": ""
+        },
+        "files": [
+            "registration.php"
+        ]
+    }
+}
