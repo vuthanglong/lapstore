@@ -252,6 +252,7 @@ return [
         'Temando_Shipping' => 1,
         'Vertex_Tax' => 1,
         'Vertex_AddressValidation' => 1,
+        'Vnpayment_VNPAY' => 1,
         'Yotpo_Yotpo' => 1
     ]
 ];
